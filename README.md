@@ -38,7 +38,8 @@ Exploring how intelligent models can run efficiently on **resource-constrained d
 ---
 
 ### 📫 Get in Touch
-[LinkedIn](www.linkedin.com/in/denis-gabriel-sanduleanu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-gabriel-sanduleanu)
+
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:denisgabriel.sanduleanu@gmail.com)
 
 ---
