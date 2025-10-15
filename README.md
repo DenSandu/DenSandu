@@ -34,7 +34,5 @@
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:denisgabriel.sanduleanu@gmail.com)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
----
 
