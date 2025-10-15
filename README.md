@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Denis Gabriel Sanduleanu
+# Hi, I'm Denis Gabriel Sanduleanu
 
-🎓 Master’s student in **Computer Science** at **Politecnico di Milano**  
-💡 Passionate about **Machine Learning**, **Edge AI**, and **IoT Systems**  
-⚙️ Exploring how intelligent models can run efficiently on **resource-constrained devices**
+Master’s student in **Computer Science** at **Politecnico di Milano**  
+Passionate about **Machine Learning**, **Edge AI**, and **IoT Systems**  
+Exploring how intelligent models can run efficiently on **resource-constrained devices**
 
 ---
 
-### 🚀 Featured Projects
-- 🪴 **Edge AI for Leaf Disease Classification** – Deployed MobileNet & custom TensorFlow Lite models on ESP32  
-- 🛰️ **Semantic Segmentation of Martian Soil** – U-Net for planetary image classification  
-- 🚗 **Low-Power IoT Parking Detection System** – ESP32-based sensor network using ESP-NOW  
-- 🧘‍♂️ **Well MEing App** – iOS wellness tracker with Google Vertex AI integration  
+### Featured Projects
+- **Edge AI for Leaf Disease Classification** – Deployed MobileNet & custom TensorFlow Lite models on ESP32  
+- **Semantic Segmentation of Martian Soil** – U-Net for planetary image classification  
+- **Low-Power IoT Parking Detection System** – ESP32-based sensor network using ESP-NOW  
+- **Well MEing App** – iOS wellness tracker with Google Vertex AI integration  
 
 ---
 
